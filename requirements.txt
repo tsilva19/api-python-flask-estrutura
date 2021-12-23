@@ -1,0 +1,13 @@
+Flask==1.1
+pytest==5.4
+pytest-cov
+flask_restful
+flask_cors
+mysql-connector-python==8.0.24
+pyjwt==2.1.0
+reportlab==3.5.67
+requests==2.26.0
+python-json-logger==2.0.2
+black==21.12b0
+flake8==4.0.1
+
